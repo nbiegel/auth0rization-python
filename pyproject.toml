@@ -8,7 +8,7 @@ version = "1.0.0"
 authors = [
   { name="Nicholas Biegel", email="contact@nbiegel.com" },
 ]
-description = "A package to perform actions related to auth0 JWT tokens."
+description = "A library to provide simple methods to validate and use Auth0 JWT tokens."
 readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.6"
